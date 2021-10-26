@@ -1,7 +1,5 @@
-I'm Muhammad Istiqlal, an ITOps Enthusiast
+I'm Muhammad Istiqlal, an ITOps Enthusiast <br>
 Owner and Creator [Istiqlal Learn](https://github.com/istiqlal-learn)
-
-@iqlal
 
 Subjects I Learned 📖 <br>
 1️⃣ Networking <br>
