@@ -9,7 +9,7 @@ Take a look [Netamiral Education](https://github.com/netamiral) for Open Educati
 
 ---
 
-Contact Me :
+## Contact Me :
 - [Email](mailto:iqlal@tuta.io)
 - [LinkedIn](https://linkedin.com/in/iqlal)
-- Signal : +628123407879 (ONLY Signal)
+- Signal : +628123407879 **(ONLY Signal)**
