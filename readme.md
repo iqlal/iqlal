@@ -5,7 +5,7 @@ Subjects I Learned 📖 <br>
 2️⃣ System Administration <br>
 3️⃣ Cloud Computing <br>
 
-Take a look [Netamiral Education](https://github.com/netamiral) for Open Education
+Take a look [NCLSE](https://github.com/NCLSE) for Open Education
 
 ---
 
