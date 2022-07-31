@@ -2,7 +2,7 @@ Hi 👋
 
 I'am **Muhammad Istiqlal** : Microsoft Certified Trainer (Azure), Founder NCLSE (Tech Education Org), IT Infrastructure Professional, and Undergraduate Student at State University of Surabaya 😊
 
-My Work & Study Scope :
+My Work & Study Scope : <br>
 ⏺️ Cloud Computing (Azure, AWS) <br>
 ⏺️ System Administration (Proxmox, VMWare, Hyper-V, Openstack) <br>
 ⏺️ Linux Administration (RedHat, Fedora, SUSE, Ubuntu, Debian) <br>
