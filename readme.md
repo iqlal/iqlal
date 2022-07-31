@@ -12,7 +12,7 @@ My Work & Study Scope : <br>
 Take a look [NCLSE](https://github.com/NCLSE) for Open Tech Education
 
 ## my achievements
-![](https://github.com/iqlal/iqlal/blob/master/images/pencapaian.png)
+![](https://github.com/iqlal/iqlal/blob/master/image/pencapaian.png)
 
 ## how to contact me :
 - [Email](mailto:iqlal@nclse.org)
