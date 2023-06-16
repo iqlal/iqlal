@@ -1,3 +1,5 @@
+> “Information is power. But like all power, there are those who want to keep it for themselves.”, Aaron Swartz
+
 Hi 👋
 
 I'am **Muhammad Istiqlal** : Microsoft Certified Trainer (Azure), Founder NCLSE (Tech Education Org), IT Infrastructure Professional, and Undergraduate Student at State University of Surabaya 😊
