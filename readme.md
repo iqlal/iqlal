@@ -1,7 +1,6 @@
 # “Information is power. But like all power, there are those who want to keep it for themselves.”, Aaron Swartz
 
 <br>
-<br>
 
 Hi 👋
 
