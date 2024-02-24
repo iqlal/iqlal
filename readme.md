@@ -8,9 +8,9 @@ I'am **Muhammad Istiqlal** : Microsoft Certified Trainer (Azure), Founder NCLSE 
 
 My Work & Study Scope : <br>
 ⏺️ Cloud Computing (Azure, AWS) <br>
-⏺️ System Administration (Proxmox, VMWare, Hyper-V, Openstack) <br>
-⏺️ Linux Administration (RedHat, Fedora, SUSE, Ubuntu, Debian) <br>
-⏺️ Networking (Cisco, Mikrotik) <br>
+⏺️ Virtualization (VMWare, Hyper-V, KVM, XEN Project, Openstack) <br>
+⏺️ Linux Administration (Red Hat, Fedora, SUSE, Ubuntu, Debian) <br>
+⏺️ Networking (Juniper, Cisco, Mikrotik) <br>
 ⏺️ Automation (Ansible) <br>
 
 Take a look [NCLSE](https://github.com/NCLSE) for Open Tech Education
